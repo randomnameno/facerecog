@@ -1,0 +1,3 @@
+/home/aragog/Desktop/facerecog/dlib-19.9/build/dlib-19.9/build/dlib/neon_test_build/CMakeFiles/neon_test.dir
+/home/aragog/Desktop/facerecog/dlib-19.9/build/dlib-19.9/build/dlib/neon_test_build/CMakeFiles/edit_cache.dir
+/home/aragog/Desktop/facerecog/dlib-19.9/build/dlib-19.9/build/dlib/neon_test_build/CMakeFiles/rebuild_cache.dir
